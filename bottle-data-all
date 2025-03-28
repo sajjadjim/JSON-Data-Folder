@@ -59,7 +59,7 @@
     "color": "Pink",
     "price": 7.25,
     "isReusable": true,
-    "image": "https://images.pexels.com/photos/1907784/pexels-photo-1907784.jpeg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGb1ggHCEL_7K6iMCHgm2zyxnhjzVioXg94Q&s",
     "brand": "TinyTot",
     "rating": 4.7,
     "description": "Safe and comfortable bottle designed for infants."
@@ -72,7 +72,7 @@
     "color": "Green",
     "price": 14.00,
     "isReusable": true,
-    "image": "https://images.pexels.com/photos/38272/water-bottle-water-drinking-bottle-38272.jpeg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5_ehNWqlXDN6I_fnBwBadMTopqzQj4SnvzA&s",
     "brand": "FlexiHydrate",
     "rating": 4.4,
     "description": "Space-saving and lightweight for travel and outdoor use."
@@ -98,7 +98,7 @@
     "color": "Orange",
     "price": 3.50,
     "isReusable": false,
-    "image": "https://images.pexels.com/photos/952437/pexels-photo-952437.jpeg",
+    "image": "https://unblast.com/wp-content/uploads/2018/06/Juice-Bottle-Mockup-with-Fruit.jpg",
     "brand": "FreshSqueeze",
     "rating": 4.0,
     "description": "Convenient single-use bottle for fresh juices."
@@ -124,7 +124,7 @@
     "color": "Purple",
     "price": 9.50,
     "isReusable": true,
-    "image": "https://images.pexels.com/photos/256657/pexels-photo-256657.jpeg",
+    "image": "https://www.babycare.com.bd/image/cache/catalog/newbottle/Rainbow-watter-bottle-500x500.jpg",
     "brand": "LilHydrate",
     "rating": 4.5,
     "description": "Fun and durable bottle designed for kids."
