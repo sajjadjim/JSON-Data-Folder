@@ -1,5 +1,4 @@
-{
-  "groceryProducts": [
+ [
     { "id": "FRU-001", "name": "Apple", "category": "Fruits", "price": 3.5, "stock": 50, "image": "https://source.unsplash.com/150x150/?apple" },
     { "id": "FRU-002", "name": "Banana", "category": "Fruits", "price": 1.2, "stock": 100, "image": "https://source.unsplash.com/150x150/?banana" },
     { "id": "FRU-003", "name": "Orange", "category": "Fruits", "price": 2.0, "stock": 75, "image": "https://source.unsplash.com/150x150/?orange" },
@@ -30,4 +29,3 @@
     { "id": "BEV-029", "name": "Tea", "category": "Beverages", "price": 4.5, "stock": 35, "image": "https://source.unsplash.com/150x150/?tea" },
     { "id": "BEV-030", "name": "Juice", "category": "Beverages", "price": 3.0, "stock": 40, "image": "https://source.unsplash.com/150x150/?juice" }
   ]
-}
