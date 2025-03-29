@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "1AA",
     "name": "Water Bottle",
     "capacity": "500ml",
     "material": "Plastic",
@@ -13,7 +13,7 @@
     "description": "A classic and reliable water bottle for everyday hydration."
   },
   {
-    "id": 2,
+    "id": "2AA",
     "name": "Insulated Bottle",
     "capacity": "750ml",
     "material": "Stainless Steel",
@@ -26,7 +26,7 @@
     "description": "Keeps your drinks hot or cold for hours. Perfect for travel."
   },
   {
-    "id": 3,
+    "id": "3AAB",
     "name": "Sports Bottle",
     "capacity": "1L",
     "material": "Tritan",
@@ -39,7 +39,7 @@
     "description": "Durable and leak-proof, ideal for sports and outdoor activities."
   },
   {
-    "id": 4,
+    "id": "4CCB",
     "name": "Glass Bottle",
     "capacity": "350ml",
     "material": "Glass",
@@ -52,7 +52,7 @@
     "description": "Elegant and eco-friendly glass bottle for pure taste."
   },
   {
-    "id": 5,
+    "id": "5OOP",
     "name": "Baby Bottle",
     "capacity": "250ml",
     "material": "BPA-free Plastic",
@@ -65,7 +65,7 @@
     "description": "Safe and comfortable bottle designed for infants."
   },
   {
-    "id": 6,
+    "id": "6IIK",
     "name": "Collapsible Water Bottle",
     "capacity": "600ml",
     "material": "Silicone",
@@ -78,7 +78,7 @@
     "description": "Space-saving and lightweight for travel and outdoor use."
   },
   {
-    "id": 7,
+    "id": "7UUK",
     "name": "Thermos Bottle",
     "capacity": "1.2L",
     "material": "Stainless Steel",
@@ -91,7 +91,7 @@
     "description": "High-capacity thermos for long trips and adventures."
   },
   {
-    "id": 8,
+    "id": "8RRT",
     "name": "Juice Bottle",
     "capacity": "300ml",
     "material": "PET Plastic",
@@ -104,7 +104,7 @@
     "description": "Convenient single-use bottle for fresh juices."
   },
   {
-    "id": 9,
+    "id": "9PPO",
     "name": "Wide-Mouth Water Bottle",
     "capacity": "1000ml",
     "material": "Polypropylene",
@@ -117,7 +117,7 @@
     "description": "Easy to fill and clean, perfect for large volumes of water."
   },
   {
-    "id": 10,
+    "id": "10UUP",
     "name": "Kids Water Bottle",
     "capacity": "400ml",
     "material": "Tritan",
