@@ -1,6 +1,6 @@
  [
-    { "id": "FRU-001", "name": "Apple", "category": "Fruits", "price": 3.5, "stock": 50, "image": "https://source.unsplash.com/150x150/?apple" },
-    { "id": "FRU-002", "name": "Banana", "category": "Fruits", "price": 1.2, "stock": 100, "image": "https://source.unsplash.com/150x150/?banana" },
+    { "id": "FRU-001", "name": "Apple", "category": "Fruits", "price": 3.5, "stock": 50, "image": "https://organicmandya.com/cdn/shop/files/Apples_bf998dd2-0ee8-4880-9726-0723c6fbcff3.jpg?v=1721368465&width=1000" },
+    { "id": "FRU-002", "name": "Banana", "category": "Fruits", "price": 1.2, "stock": 100, "image": "https://www.womansworld.com/wp-content/uploads/2024/07/Banana-Every-Day.jpg?quality=86&strip=all" },
     { "id": "FRU-003", "name": "Orange", "category": "Fruits", "price": 2.0, "stock": 75, "image": "https://source.unsplash.com/150x150/?orange" },
     { "id": "DAI-004", "name": "Milk", "category": "Dairy", "price": 4.0, "stock": 30, "image": "https://source.unsplash.com/150x150/?milk" },
     { "id": "DAI-005", "name": "Cheese", "category": "Dairy", "price": 5.5, "stock": 20, "image": "https://source.unsplash.com/150x150/?cheese" },
