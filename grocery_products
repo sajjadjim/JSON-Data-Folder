@@ -1,0 +1,33 @@
+{
+  "groceryProducts": [
+    { "id": "FRU-001", "name": "Apple", "category": "Fruits", "price": 3.5, "stock": 50, "image": "https://source.unsplash.com/150x150/?apple" },
+    { "id": "FRU-002", "name": "Banana", "category": "Fruits", "price": 1.2, "stock": 100, "image": "https://source.unsplash.com/150x150/?banana" },
+    { "id": "FRU-003", "name": "Orange", "category": "Fruits", "price": 2.0, "stock": 75, "image": "https://source.unsplash.com/150x150/?orange" },
+    { "id": "DAI-004", "name": "Milk", "category": "Dairy", "price": 4.0, "stock": 30, "image": "https://source.unsplash.com/150x150/?milk" },
+    { "id": "DAI-005", "name": "Cheese", "category": "Dairy", "price": 5.5, "stock": 20, "image": "https://source.unsplash.com/150x150/?cheese" },
+    { "id": "DAI-006", "name": "Eggs", "category": "Dairy", "price": 3.0, "stock": 40, "image": "https://source.unsplash.com/150x150/?eggs" },
+    { "id": "BAK-007", "name": "Bread", "category": "Bakery", "price": 2.5, "stock": 35, "image": "https://source.unsplash.com/150x150/?bread" },
+    { "id": "DAI-008", "name": "Butter", "category": "Dairy", "price": 3.8, "stock": 25, "image": "https://source.unsplash.com/150x150/?butter" },
+    { "id": "VEG-009", "name": "Carrots", "category": "Vegetables", "price": 1.5, "stock": 60, "image": "https://source.unsplash.com/150x150/?carrots" },
+    { "id": "VEG-010", "name": "Tomatoes", "category": "Vegetables", "price": 2.8, "stock": 45, "image": "https://source.unsplash.com/150x150/?tomatoes" },
+    { "id": "VEG-011", "name": "Potatoes", "category": "Vegetables", "price": 1.0, "stock": 80, "image": "https://source.unsplash.com/150x150/?potatoes" },
+    { "id": "VEG-012", "name": "Onions", "category": "Vegetables", "price": 1.2, "stock": 70, "image": "https://source.unsplash.com/150x150/?onions" },
+    { "id": "GRA-013", "name": "Rice", "category": "Grains", "price": 5.0, "stock": 50, "image": "https://source.unsplash.com/150x150/?rice" },
+    { "id": "GRA-014", "name": "Pasta", "category": "Grains", "price": 3.0, "stock": 40, "image": "https://source.unsplash.com/150x150/?pasta" },
+    { "id": "GRA-015", "name": "Flour", "category": "Grains", "price": 4.5, "stock": 35, "image": "https://source.unsplash.com/150x150/?flour" },
+    { "id": "PAN-016", "name": "Sugar", "category": "Pantry", "price": 2.2, "stock": 60, "image": "https://source.unsplash.com/150x150/?sugar" },
+    { "id": "PAN-017", "name": "Salt", "category": "Pantry", "price": 1.0, "stock": 70, "image": "https://source.unsplash.com/150x150/?salt" },
+    { "id": "PAN-018", "name": "Pepper", "category": "Pantry", "price": 2.5, "stock": 25, "image": "https://source.unsplash.com/150x150/?pepper" },
+    { "id": "PAN-019", "name": "Olive Oil", "category": "Pantry", "price": 8.0, "stock": 15, "image": "https://source.unsplash.com/150x150/?olive-oil" },
+    { "id": "MEA-021", "name": "Chicken Breast", "category": "Meat", "price": 7.0, "stock": 30, "image": "https://source.unsplash.com/150x150/?chicken" },
+    { "id": "MEA-022", "name": "Ground Beef", "category": "Meat", "price": 9.0, "stock": 25, "image": "https://source.unsplash.com/150x150/?beef" },
+    { "id": "MEA-023", "name": "Fish", "category": "Meat", "price": 10.5, "stock": 20, "image": "https://source.unsplash.com/150x150/?fish" },
+    { "id": "MEA-024", "name": "Shrimp", "category": "Meat", "price": 12.0, "stock": 15, "image": "https://source.unsplash.com/150x150/?shrimp" },
+    { "id": "DAI-025", "name": "Yogurt", "category": "Dairy", "price": 3.2, "stock": 30, "image": "https://source.unsplash.com/150x150/?yogurt" },
+    { "id": "SNK-026", "name": "Chips", "category": "Snacks", "price": 2.0, "stock": 50, "image": "https://source.unsplash.com/150x150/?chips" },
+    { "id": "SNK-027", "name": "Chocolate", "category": "Snacks", "price": 2.5, "stock": 45, "image": "https://source.unsplash.com/150x150/?chocolate" },
+    { "id": "BEV-028", "name": "Coffee", "category": "Beverages", "price": 6.0, "stock": 30, "image": "https://source.unsplash.com/150x150/?coffee" },
+    { "id": "BEV-029", "name": "Tea", "category": "Beverages", "price": 4.5, "stock": 35, "image": "https://source.unsplash.com/150x150/?tea" },
+    { "id": "BEV-030", "name": "Juice", "category": "Beverages", "price": 3.0, "stock": 40, "image": "https://source.unsplash.com/150x150/?juice" }
+  ]
+}
