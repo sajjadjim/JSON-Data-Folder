@@ -128,5 +128,70 @@
     "brand": "LilHydrate",
     "rating": 4.5,
     "description": "Fun and durable bottle designed for kids."
+  },
+ {
+    "id": "11XX",
+    "name": "Filtered Water Bottle",
+    "capacity": "700ml",
+    "material": "Plastic",
+    "color": "Blue",
+    "price": 21.50,
+    "isReusable": true,
+    "image": "https://example.com/filtered_bottle.jpg",
+    "brand": "PureSip",
+    "rating": 4.7,
+    "description": "Built-in filter for clean water on the go."
+  },
+  {
+    "id": "12YY",
+    "name": "Smart Water Bottle",
+    "capacity": "500ml",
+    "material": "Stainless Steel",
+    "color": "Black",
+    "price": 35.00,
+    "isReusable": true,
+    "image": "https://example.com/smart_bottle.jpg",
+    "brand": "HydraTech",
+    "rating": 4.9,
+    "description": "Tracks hydration and syncs with your phone."
+  },
+  {
+    "id": "13ZZ",
+    "name": "Lightweight Hiking Bottle",
+    "capacity": "900ml",
+    "material": "Aluminum",
+    "color": "Silver",
+    "price": 18.75,
+    "isReusable": true,
+    "image": "https://example.com/hiking_bottle.jpg",
+    "brand": "TrailFlow",
+    "rating": 4.6,
+    "description": "Durable and lightweight for hiking trips."
+  },
+  {
+    "id": "14WW",
+    "name": "Shaker Bottle",
+    "capacity": "600ml",
+    "material": "Plastic",
+    "color": "White",
+    "price": 9.99,
+    "isReusable": true,
+    "image": "https://example.com/shaker_bottle.jpg",
+    "brand": "FitMix",
+    "rating": 4.5,
+    "description": "Perfect for protein shakes and smoothies."
+  },
+  {
+    "id": "15VV",
+    "name": "Eco-Friendly Bamboo Bottle",
+    "capacity": "750ml",
+    "material": "Bamboo & Stainless Steel",
+    "color": "Natural Wood",
+    "price": 22.00,
+    "isReusable": true,
+    "image": "https://example.com/bamboo_bottle.jpg",
+    "brand": "EcoHydrate",
+    "rating": 4.8,
+    "description": "Sustainable and stylish bamboo water bottle."
   }
 ]
