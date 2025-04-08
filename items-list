@@ -24,7 +24,7 @@
     "currentBidPrice": 950,
     "timeLeft": "3h 45m",
     "bidsCount": 25,
-    "image": "images/laptop.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsmQHmmXbmbrV1o5cKcS3Bqp05T3BuEws-8g&s"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "currentBidPrice": 300,
     "timeLeft": "5h 10m",
     "bidsCount": 14,
-    "image": "images/bike.jpg"
+    "image": "https://reidbikes.com/cdn/shop/files/MTB-Sport-MY24-1_1.png?v=1730605841"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "currentBidPrice": 700,
     "timeLeft": "7h 20m",
     "bidsCount": 18,
-    "image": "images/phone.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgZ98pl2wqZkC967ptkpIOi96JewLHskMlg&s"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "currentBidPrice": 450,
     "timeLeft": "12h 00m",
     "bidsCount": 9,
-    "image": "images/guitar.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf8iLYbgS6D46FkpR-lI7JRsSWvlmGGzFnvw&s"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "currentBidPrice": 520,
     "timeLeft": "4h 50m",
     "bidsCount": 11,
-    "image": "images/drone.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQDL3IvVS1d9Z1pi9uDiD8FUsYCPLZ69OoiA&s"
   },
   {
     "id": 8,
@@ -87,7 +87,7 @@
     "currentBidPrice": 110,
     "timeLeft": "1h 40m",
     "bidsCount": 22,
-    "image": "images/headphones.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeQC6aQ_uX8YUwnpp267tybes2yxTIEp22bg&s"
   },
   {
     "id": 11,
@@ -105,7 +105,7 @@
     "currentBidPrice": 200,
     "timeLeft": "6h 35m",
     "bidsCount": 15,
-    "image": "images/smartwatch.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1zdBWUoO5NmoeXuqvJaOgnYbKt4rsCZGaw&s"
   },
   {
     "id": 13,
@@ -141,7 +141,7 @@
     "currentBidPrice": 600,
     "timeLeft": "8h 20m",
     "bidsCount": 10,
-    "image": "images/theater.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgN1_IKEbZG_mIRJyXie32oNDON6YBPGobQ&s"
   },
   {
     "id": 17,
@@ -168,7 +168,7 @@
     "currentBidPrice": 980,
     "timeLeft": "3h 55m",
     "bidsCount": 22,
-    "image": "images/camera.jpg"
+    "image": "https://m.media-amazon.com/images/I/71AAbZzfX8L._AC_SL1500_.jpg"
   },
   {
     "id": 20,
@@ -177,6 +177,6 @@
     "currentBidPrice": 160,
     "timeLeft": "5h 10m",
     "bidsCount": 11,
-    "image": "images/perfume.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqsS6Y8hCld6BUR66e1oVV4PSRzdFsYZqOQA&s"
   }
 ]
