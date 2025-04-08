@@ -6,7 +6,7 @@
     "currentBidPrice": 150,
     "timeLeft": "2h 30m",
     "bidsCount": 12,
-    "image": "images/watch.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0xs2xmb1MXeESlV2-SoByoUlsjEI1KGO01g&s"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "currentBidPrice": 1200,
     "timeLeft": "1d 5h",
     "bidsCount": 8,
-    "image": "images/vase.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIsU-MfkpTPUcAcXOk_M1c1v4DjmPZDpnMog&s"
   },
   {
     "id": 3,
