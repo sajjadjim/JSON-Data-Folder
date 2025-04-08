@@ -51,5 +51,65 @@
             "development",
             "resources"
         ]
+    },
+   {
+        "id": 5,
+        "cover": "https://i.ibb.co/Jm3FtCF/5.jpg",
+        "title": "Top UI Design Inspiration for Modern Websites",
+        "author_img": "https://i.ibb.co/dgh7kWq/girl3.jpg",
+        "author": "Sara Malik",
+        "posted_date": "July 12, 2023",
+        "reading_time": 6,
+        "hashtags": ["design", "uiux"]
+    },
+    {
+        "id": 6,
+        "cover": "https://i.ibb.co/qdzLfV9/6.jpg",
+        "title": "10 Free Tools Every Developer Should Know",
+        "author_img": "https://i.ibb.co/6bWn6Xz/boy1.jpg",
+        "author": "Ali Raza",
+        "posted_date": "August 20, 2023",
+        "reading_time": 7,
+        "hashtags": ["tools", "development"]
+    },
+    {
+        "id": 7,
+        "cover": "https://i.ibb.co/KxM2Z6N/7.jpg",
+        "title": "How to Optimize Website Performance in 2024",
+        "author_img": "https://i.ibb.co/VtgwVbp/boy2.jpg",
+        "author": "Hassan Mirza",
+        "posted_date": "September 15, 2023",
+        "reading_time": 8,
+        "hashtags": ["performance", "webdev"]
+    },
+    {
+        "id": 8,
+        "cover": "https://i.ibb.co/4ZGyFV0/8.jpg",
+        "title": "Free Illustrations for Your Next Project",
+        "author_img": "https://i.ibb.co/S6jkhtf/girl4.jpg",
+        "author": "Ayesha Khan",
+        "posted_date": "October 3, 2023",
+        "reading_time": 5,
+        "hashtags": ["design", "resources"]
+    },
+    {
+        "id": 9,
+        "cover": "https://i.ibb.co/7GqBkKs/9.jpg",
+        "title": "The Best Color Palettes for Web Design",
+        "author_img": "https://i.ibb.co/qNz8d1S/boy3.jpg",
+        "author": "Umer Asad",
+        "posted_date": "November 22, 2023",
+        "reading_time": 6,
+        "hashtags": ["colors", "webdesign"]
+    },
+    {
+        "id": 10,
+        "cover": "https://i.ibb.co/ZmWz8Gk/10.jpg",
+        "title": "Where to Find Free Icons for Your Website",
+        "author_img": "https://i.ibb.co/jW52kHx/girl5.jpg",
+        "author": "Mariam Iqbal",
+        "posted_date": "December 10, 2023",
+        "reading_time": 4,
+        "hashtags": ["icons", "resources"]
     }
 ]
