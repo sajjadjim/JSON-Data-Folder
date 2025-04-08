@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Watch",
+    "description": "A classic 1960s wristwatch in excellent condition.",
+    "currentBidPrice": 150,
+    "timeLeft": "2h 30m",
+    "bidsCount": 12,
+    "image": "images/watch.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Antique Vase",
+    "description": "A rare Ming Dynasty vase with intricate designs.",
+    "currentBidPrice": 1200,
+    "timeLeft": "1d 5h",
+    "bidsCount": 8,
+    "image": "images/vase.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Gaming Laptop",
+    "description": "High-performance gaming laptop with RTX graphics.",
+    "currentBidPrice": 950,
+    "timeLeft": "3h 45m",
+    "bidsCount": 25,
+    "image": "images/laptop.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Mountain Bike",
+    "description": "All-terrain mountain bike with full suspension.",
+    "currentBidPrice": 300,
+    "timeLeft": "5h 10m",
+    "bidsCount": 14,
+    "image": "images/bike.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Smartphone",
+    "description": "Latest model smartphone with OLED display.",
+    "currentBidPrice": 700,
+    "timeLeft": "7h 20m",
+    "bidsCount": 18,
+    "image": "images/phone.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Electric Guitar",
+    "description": "Classic Fender electric guitar, great for rock.",
+    "currentBidPrice": 450,
+    "timeLeft": "12h 00m",
+    "bidsCount": 9,
+    "image": "images/guitar.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Drone Camera",
+    "description": "4K camera drone with stabilization features.",
+    "currentBidPrice": 520,
+    "timeLeft": "4h 50m",
+    "bidsCount": 11,
+    "image": "images/drone.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Leather Jacket",
+    "description": "Premium quality leather jacket, unisex fit.",
+    "currentBidPrice": 180,
+    "timeLeft": "2d 3h",
+    "bidsCount": 7,
+    "image": "images/jacket.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Art Painting",
+    "description": "Modern abstract painting by a local artist.",
+    "currentBidPrice": 350,
+    "timeLeft": "6h 15m",
+    "bidsCount": 10,
+    "image": "images/painting.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Bluetooth Headphones",
+    "description": "Noise-cancelling wireless headphones.",
+    "currentBidPrice": 110,
+    "timeLeft": "1h 40m",
+    "bidsCount": 22,
+    "image": "images/headphones.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Classic Books Set",
+    "description": "Collection of 20 classic novels in hardcover.",
+    "currentBidPrice": 90,
+    "timeLeft": "3d 1h",
+    "bidsCount": 5,
+    "image": "images/books.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Smartwatch",
+    "description": "Water-resistant smartwatch with health tracking.",
+    "currentBidPrice": 200,
+    "timeLeft": "6h 35m",
+    "bidsCount": 15,
+    "image": "images/smartwatch.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Vinyl Record Player",
+    "description": "Retro turntable with Bluetooth capability.",
+    "currentBidPrice": 130,
+    "timeLeft": "4h 50m",
+    "bidsCount": 13,
+    "image": "images/turntable.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Camping Tent",
+    "description": "4-person waterproof camping tent, easy setup.",
+    "currentBidPrice": 75,
+    "timeLeft": "2d 12h",
+    "bidsCount": 6,
+    "image": "images/tent.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Designer Handbag",
+    "description": "Luxury leather handbag, barely used.",
+    "currentBidPrice": 480,
+    "timeLeft": "1d 6h",
+    "bidsCount": 17,
+    "image": "images/handbag.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Home Theater System",
+    "description": "5.1 surround sound with wireless subwoofer.",
+    "currentBidPrice": 600,
+    "timeLeft": "8h 20m",
+    "bidsCount": 10,
+    "image": "images/theater.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Fitness Equipment Set",
+    "description": "Includes dumbbells, resistance bands, and yoga mat.",
+    "currentBidPrice": 250,
+    "timeLeft": "9h 15m",
+    "bidsCount": 9,
+    "image": "images/fitness.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Retro Arcade Machine",
+    "description": "Mini arcade machine with 300+ classic games.",
+    "currentBidPrice": 340,
+    "timeLeft": "7h 40m",
+    "bidsCount": 20,
+    "image": "images/arcade.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Photography Kit",
+    "description": "DSLR camera with tripod and two lenses.",
+    "currentBidPrice": 980,
+    "timeLeft": "3h 55m",
+    "bidsCount": 22,
+    "image": "images/camera.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Luxury Perfume Set",
+    "description": "Collection of 5 designer fragrances.",
+    "currentBidPrice": 160,
+    "timeLeft": "5h 10m",
+    "bidsCount": 11,
+    "image": "images/perfume.jpg"
+  }
+]
