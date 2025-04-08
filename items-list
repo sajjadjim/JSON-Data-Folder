@@ -69,7 +69,7 @@
     "currentBidPrice": 180,
     "timeLeft": "2d 3h",
     "bidsCount": 7,
-    "image": "images/jacket.jpg"
+    "image": "https://www.thejacketmaker.it/cdn/shop/files/Men_s_Lavendard_Brown_Leather_Biker_Jacket-2_746fba86-1fbc-43f9-a9d5-1e400876d80d.jpg?v=1739198452"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "currentBidPrice": 350,
     "timeLeft": "6h 15m",
     "bidsCount": 10,
-    "image": "images/painting.jpg"
+    "image": "https://images-cdn.ubuy.co.in/634f1f075e503a0a5b5236b3-canvas-wall-art-painting-vintage-24x36.jpg"
   },
   {
     "id": 10,
@@ -96,7 +96,7 @@
     "currentBidPrice": 90,
     "timeLeft": "3d 1h",
     "bidsCount": 5,
-    "image": "images/books.jpg"
+    "image": "https://i0.wp.com/images-na.ssl-images-amazon.com/images/I/818GXTCx4nL.jpg?resize=459%2C420&ssl=1"
   },
   {
     "id": 12,
@@ -114,7 +114,7 @@
     "currentBidPrice": 130,
     "timeLeft": "4h 50m",
     "bidsCount": 13,
-    "image": "images/turntable.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDbEoPKdLMzMmc-Cc8fovUCnShbtUroNbjtw&s"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "currentBidPrice": 75,
     "timeLeft": "2d 12h",
     "bidsCount": 6,
-    "image": "images/tent.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREHUFKqYLGD75cpgFkii3AjvjBZ7AiM6UwTw&s"
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@
     "currentBidPrice": 480,
     "timeLeft": "1d 6h",
     "bidsCount": 17,
-    "image": "images/handbag.jpg"
+    "image": "https://image.made-in-china.com/365f3j00ySHIvRslLKBU/Kaidifeiniroo-K015-Wholesale-Designer-Bags-Women-Famous-Brands-Luxury-Designer-Fashion-Lady-Handbag-for-Women.webp"
   },
   {
     "id": 16,
@@ -150,7 +150,7 @@
     "currentBidPrice": 250,
     "timeLeft": "9h 15m",
     "bidsCount": 9,
-    "image": "images/fitness.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSLY_BOyJZ9Oa29BN59fb4fwd3xIy4VUt3QA&s"
   },
   {
     "id": 18,
@@ -159,7 +159,7 @@
     "currentBidPrice": 340,
     "timeLeft": "7h 40m",
     "bidsCount": 20,
-    "image": "images/arcade.jpg"
+    "image": "https://m.media-amazon.com/images/I/51lqnAulLLL.jpg"
   },
   {
     "id": 19,
