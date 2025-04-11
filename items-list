@@ -37,12 +37,12 @@
   },
   {
     "id": 5,
-    "title": "Smartphone",
-    "description": "Latest model smartphone with OLED display.",
+    "title": "Galaxy S25 Ultra",
+    "description": "526 GB STorage 16 GB Ram samsung.",
     "currentBidPrice": 700,
     "timeLeft": "7h 20m",
     "bidsCount": 18,
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgZ98pl2wqZkC967ptkpIOi96JewLHskMlg&s"
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S25-Ultra-5G-Titanium-Jetblack-5600.jpg"
   },
   {
     "id": 6,
