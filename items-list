@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "title": "Vintage Watch",
+    "title": "Rolex Watch",
     "description": "A classic 1960s wristwatch in excellent condition.",
-    "currentBidPrice": 150,
+    "currentBidPrice": 1500,
     "timeLeft": "2h 30m",
     "bidsCount": 12,
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0xs2xmb1MXeESlV2-SoByoUlsjEI1KGO01g&s"
+    "image": "https://www.watchswiss.com/wp-content/uploads/2024/05/m126234-0051_drp-upright-bba-with-shadow_mobile.png"
   },
   {
     "id": 2,
