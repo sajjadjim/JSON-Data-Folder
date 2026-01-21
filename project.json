@@ -267,33 +267,6 @@
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/grocery%20goON/groceryON.png?raw=true"
         ]
     },
-    
-    {
-        "name": "PickOn",
-        "short_description": "PickOn is a full-stack parcel delivery system with user roles for customers, delivery personnel, and admins.",
-        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Project8/image.png?raw=true",
-        "technologies": [
-            "React",
-            "Tailwind CSS",
-            "Node.js",
-            "Firebase",
-            "Express.js",
-            "FirebaseAuth",
-            "MongoDB"
-        ],
-        "clientCode": "https://github.com/sajjadjim/Fastest-Parcel-Delivery-Client-side",
-        "serverCode": "https://github.com/sajjadjim/PickOn-server",
-        "liveLink": "https://delivery-project-13c2d.web.app/",
-        "category": "Full stack",
-        "description": "Its Delivery parcel system where parcel delivery processing.3 types of users are insists here.Admin , users , and Rider.Users can book their parcel and also see their parcel status and also see their all parcel history.And also rider can see their all parcel and also see their all parcel history.And admin can see all users and riders and also see all parcel.",
-        "screenshots": [
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Project8/image2.png?raw=true",
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Project8/image1.png?raw=true",
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Project8/image3.png?raw=true",
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Project8/image4.png?raw=true",
-            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Project8/image5.png?raw=true"
-        ]
-    },
     {
         "name": "Mini-Event-Scheduler",
         "short_description": "A productivity app that helps teams and individuals manage tasks, deadlines, and priorities.",
@@ -544,6 +517,7 @@
         ]
     }
 ]
+
 
 
 
