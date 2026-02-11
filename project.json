@@ -164,6 +164,29 @@
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/projects-20_Food%20sharing/images/image4.jpeg?raw=true"
         ]
     },{
+        "name": "Pet Care",
+        "short_description": "The Pet Care Store is a modern, full-stack e-commerce application built with Next.js and MongoDB. It is designed specifically for pet owners to browse and manage high-quality essentials like clothing, toys, and nutrition.",
+        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pet%20care/image.png?raw=true",
+        "technologies": [
+            "Next.js",
+            "Tailwind CSS",
+            "Node.js",
+            "Firebase",
+            "FirebaseAuth",
+            "MongoDB",
+            "Firebase-Auth"
+        ],
+        "clientCode": "https://github.com/sajjadjim/Pet-Care",
+        "serverCode": "",
+        "liveLink": "https://pet-care-own.vercel.app",
+        "category": "Full stack",
+        "description": "The Pet Care Store is a sophisticated, full-stack web application developed by Sajjad Hossain Jim. Built with a focus on high performance and a playful user experience, the platform serves as a specialized e-commerce catalog for pet essentials in the Dhaka, Bangladesh area.",
+        "screenshots": [
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pet%20care/images/image1.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pet%20care/images/image2.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pet%20care/images/image3.png?raw=true"
+        ]
+    },{
         "name": "Product Manager",
         "short_description": "A web application for managing doctor appointments.Where patients can book, view, and manage their appointments with doctors.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Data%20management/image.png?raw=true",
