@@ -16,6 +16,7 @@
         ],
         "clientCode": "https://github.com/sajjadjim/Interview-Mate",
         "serverCode": "",
+        "duration": "1 month 27 days",
         "liveLink": "https://interviewmate-bd.vercel.app/",
         "category": "Full Stack",
         "description": "It's a mock interview test demo website . where the candidate can open account and they can application for their suitable topic base basic / standard / Realtime Mocktest interview practice.Three types of users here . Admin , Interviewer , and Candidate . Admin can manage all users and also manage all interview topics . Interviewer can create new interview topics and also manage their created interview topics . Candidate can apply for their suitable interview topic and also see their all applied interview topics history.",
@@ -47,6 +48,7 @@
         "serverCode": "https://github.com/sajjadjim/serverSide_Medical_bootCamp",
         "liveLink": "https://medical-camp-management-4da72.web.app/",
         "category": "Full Stack",
+        "duration": "1 month 27 days",
         "description": "It's a medical BootCamps website , where people sing-up and create account and participate the recently BootCamps and search the bootCamp their location basis also.And then show the dashboard the participate BootCamps all List , and also show the bootCamps date.One User can participate the multiple BootCamps also.BootCamps participant confirm their successfully payment system.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/medical%20bootcamps/webpage%20Main.png?raw=true",
@@ -73,6 +75,7 @@
         "serverCode": "https://github.com/sajjadjim/server-Courier-and-Parcel-Management-System",
         "liveLink": "https://pickon-bd.netlify.app/",
         "category": "Full Stack",
+        "duration": "1 month 27 days",
         "description": "Its Delivery parcel system where parcel delivery processing.3 types of users are insists here.Admin , users , and Rider.Users can book their parcel and also see their parcel status and also see their all parcel history.And also rider can see their all parcel and also see their all parcel history.And admin can see all users and riders and also see all parcel.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pick-on/image.png?raw=true",
@@ -103,6 +106,7 @@
         "serverCode": "https://github.com/sajjadjim/server-side-code-Freelancer-",
         "liveLink": "https://freelance-task-marketpla-6d7e7.web.app/",
         "category": "Full Stack",
+        "duration": "1 month 27 days",
         "description": "EasyBook is a full-stack web app to book appointments and manage reservations with secure login and real-time availability. It allows users to create accounts, book appointments, and manage their reservations. The app features a user-friendly interface with a calendar view, appointment details, and notifications. Admins can manage users and appointments through a secure dashboard.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/homePage.png?raw=true",
@@ -129,6 +133,7 @@
         "serverCode": "https://github.com/sajjadjim/server-side-all-code/tree/main/assignment%2011%20server",
         "liveLink": "https://lost-and-found-website-c7da7.web.app/",
         "category": "Full Stack",
+        "duration": "1 month 27 days",
         "description": "People find here their products and if anyone find other products they also post here products to get others products find. And also people can see their all lost and found items.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Lost%20and%20items/image.png?raw=true",
@@ -156,6 +161,7 @@
         "serverCode": "https://github.com/sajjadjim/food-sharing-platform-server",
         "liveLink": "https://food-sharing-sajjadjim.netlify.app/",
         "category": "Full stack",
+        "duration": "1 month 27 days",
         "description": "A web application for sharing food among people. Users can post available food items and claim food items posted by others. The platform promotes community engagement and reduces food waste by facilitating the exchange of surplus food.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/projects-20_Food%20sharing/image.jpeg?raw=true",
@@ -181,6 +187,7 @@
         "serverCode": "",
         "liveLink": "https://pet-care-own.vercel.app",
         "category": "Full stack",
+        "duration": "1 month 27 days",
         "description": "The Pet Care Store is a sophisticated, full-stack web application developed by Sajjad Hossain Jim. Built with a focus on high performance and a playful user experience, the platform serves as a specialized e-commerce catalog for pet essentials in the Dhaka, Bangladesh area.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pet%20care/images/image1.png?raw=true",
@@ -205,6 +212,7 @@
         "serverCode": "https://github.com/sajjadjim-cse/product-manager-database",
         "liveLink": "https://electronic-products-management.web.app/",
         "category": "Full stack",
+        "duration": "1 month 27 days",
         "description": "A web application for managing doctor appointments.Where patients can book, view, and manage their appointments with doctors. Doctors can also view their schedule and manage appointments.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Data%20management/image.png?raw=true",
@@ -231,6 +239,7 @@
         "serverCode": "https://github.com/sajjadjim-cse/doctor-apppointment-server",
         "liveLink": "https://doctore-appointment-system.web.app/",
         "category": "Full stack",
+        "duration": "1 month 27 days",
         "description": "A web application for managing doctor appointments.Where patients can book, view, and manage their appointments with doctors. Doctors can also view their schedule and manage appointments.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Doctor%20appointment/image.png?raw=true",
@@ -260,6 +269,7 @@
         "serverCode": "",
         "liveLink": "https://car-go-on.vercel.app/home",
         "category": "Full stack",
+        "duration": "1 month 27 days",
         "description": "Its's a car buy website hwre people can see the letest car on the website and details see.And also add new car information after create a account website.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/car_go_on/image/image1.png?raw=true",
@@ -286,6 +296,7 @@
         "serverCode": "https://github.com/sajjadjim/server-grocery-GoON",
         "liveLink": "https://gocery-goon.netlify.app/",
         "category": "Full stack",
+        "duration": "1 month 27 days",
         "description": "Its's a grocery shop that people can buy see products and , also see the products short_description and products exparidity date and . Near shop location can see where the products is now currently available that and see that also.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/grocery%20goON/groceryON.png?raw=true"
@@ -310,6 +321,7 @@
         "serverCode": "https://github.com/sajjadjim/ts-express-server",
         "liveLink": "https://mini-event-scedeuler.web.app/",
         "category": "Full stack",
+        "duration": "1 month 27 days",
         "description": "People can add new task and also delete the task and also update the task and also find the task by category wise.And also view other peole task and also find the task by category wise.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Event%20sheduler/image.png?raw=true",
@@ -333,6 +345,7 @@
         "serverCode": "https://github.com/your-username/taskmaster-server",
         "liveLink": "https://app-store-45c21.web.app/app",
         "category": "Frontend",
+        "duration": "1 month 27 days",
         "description": "It's a app store website where people can find their valuable apps and also find the app details and also find the app reviews.Update and new app also add and delete the app.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Project3/image1.png?raw=true",
@@ -359,6 +372,7 @@
         "serverCode": "https://github.com/sajjadjim/server-side-all-code/tree/main/server-side-coffee-main",
         "liveLink": "https://coffees-sajjadjim.netlify.app/",
         "category": "Full Stack",
+        "duration": "1 month 27 days",
         "description": "It's coffee shop website some demo coffee are available and you also add new coffee if you want.You can change also coffee image and details update also.It's a learning purpose website.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Project4/image1.png?raw=true",
@@ -381,6 +395,7 @@
         "serverCode": "",
         "liveLink": "https://layer-website-liard.vercel.app/",
         "category": "Frontend",
+        "duration": "1 month 27 days",
         "description": "Foodify allows users to browse menus, order meals, and track deliveries. Restaurant owners can manage orders in real-time.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Project5/imaage1.png?raw=true",
@@ -404,6 +419,7 @@
         "serverCode": "",
         "liveLink": "https://dragon-news-452fd.web.app/",
         "category": "Frontend",
+        "duration": "1 month 27 days",
         "description": "DevBlog allows developers to write and publish blog posts using markdown with code formatting and tagging.Users can search, filter, and comment on posts.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Project6/image1.png?raw=true",
@@ -424,7 +440,8 @@
         "clientCode": "https://github.com/sajjadjim/agency_minimal",
         "serverCode": "",
         "liveLink": "https://agency-minimal15.netlify.app/",
-        "category": "Fronend",
+        "category": "Frontend",
+        "duration": "1 month 27 days",
         "description": "DevBlog allows developers to write and publish blog posts using markdown with code formatting and tagging.All of developer information are store here and also developer can update their information and also delete their information.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/agency_minimal/image.png?raw=true",
@@ -447,6 +464,7 @@
         "serverCode": "",
         "liveLink": "https://english-janala-sajjadjim.vercel.app/",
         "category": "Fronend",
+        "duration": "1 month 27 days",
         "description": "DevBlog allows developers to write and publish blog posts using markdown with code formatting and tagging.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Project%207/image1.png?raw=true",
@@ -468,7 +486,8 @@
         "clientCode": "https://github.com/sajjadjim",
         "serverCode": "",
         "liveLink": "https://traveling-webpage-eight.vercel.app/",
-        "category": "Fronend",
+        "category": "Frontend",
+        "duration": "1 month 27 days",
         "description": "It's a learning and practice purpose website. This website is traveling website .People can find their traveling place and also find the traveling guide and also find the traveling package.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/traveling/image.png?raw=true",
@@ -489,7 +508,9 @@
         "clientCode": "",
         "serverCode": "",
         "liveLink": "https://sajjadjim.github.io/Assignment-2--Kids-school/",
-        "category": "Fronend",
+        "category": "Frontend",
+        "duration": "1 month 27 days",
+
         "description": "DevBlog allows developers to write and publish blog posts using markdown with code formatting and tagging.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/kids%20school/image.png?raw=true",
@@ -510,6 +531,7 @@
         "serverCode": "",
         "liveLink": "https://sajjadjim.github.io/Assignment--3--Nature-s-Platter/#item1",
         "category": "Fronend",
+        "duration": "1 month 27 days",
         "description": "DevBlog allows developers to write and publish blog posts using markdown with code formatting and tagging.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/nature%20plater/image.png?raw=true",
@@ -531,7 +553,8 @@
         "clientCode": "",
         "serverCode": "",
         "liveLink": "https://sajjadjim.github.io/Assignment-1--Bnagladesh-2.0/",
-        "category": "Fronend",
+        "category": "Frontend",
+        "duration": "1 month 27 days",
         "description": "DevBlog allows developers to write and publish blog posts using markdown with code formatting and tagging.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Bangladesh%202.0/image.png?raw=true",
