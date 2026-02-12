@@ -48,8 +48,8 @@
         "serverCode": "https://github.com/sajjadjim/serverSide_Medical_bootCamp",
         "liveLink": "https://medical-camp-management-4da72.web.app/",
         "category": "Full Stack",
-        "duration": "1 month 27 days",
-        "description": "It's a medical BootCamps website , where people sing-up and create account and participate the recently BootCamps and search the bootCamp their location basis also.And then show the dashboard the participate BootCamps all List , and also show the bootCamps date.One User can participate the multiple BootCamps also.BootCamps participant confirm their successfully payment system.",
+        "duration": "25 days",
+        "description": "It's a medical BootCamps website, where people sing-up and create account and participate the recently BootCamps and search the bootCamp their location basis also.And then show the dashboard the participate BootCamps all List , and also show the bootCamps date.One User can participate the multiple BootCamps also.BootCamps participant confirm their successfully payment system.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/medical%20bootcamps/webpage%20Main.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/medical%20bootcamps/image/Image%201.png?raw=true",
@@ -58,8 +58,8 @@
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/medical%20bootcamps/image/image4.png?raw=true"
         ]
     },{
-        "name": "PickOn Delivary System",
-        "short_description": "Its Delivery parcel system where parcel delivery processing.3 types of users are insists here.Admin , users , and Rider.Users can book their parcel and also see their parcel status and also see their all parcel history.And also rider can see their all parcel and also see their all parcel history.And admin can see all users and riders and also see all parcel.",
+        "name": "PickOn Delivery System",
+        "short_description": "It's Delivery parcel system where parcel delivery processing.3 types of users are insists here.Admin , users , and Rider.Users can book their parcel and also see their parcel status and also see their all parcel history.And also rider can see their all parcel and also see their all parcel history.And admin can see all users and riders and also see all parcel.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pick-on/image.png?raw=true",
         "technologies": [
             "React",
@@ -75,8 +75,8 @@
         "serverCode": "https://github.com/sajjadjim/server-Courier-and-Parcel-Management-System",
         "liveLink": "https://pickon-bd.netlify.app/",
         "category": "Full Stack",
-        "duration": "1 month 27 days",
-        "description": "Its Delivery parcel system where parcel delivery processing.3 types of users are insists here.Admin , users , and Rider.Users can book their parcel and also see their parcel status and also see their all parcel history.And also rider can see their all parcel and also see their all parcel history.And admin can see all users and riders and also see all parcel.",
+        "duration": "16 days",
+        "description": "It's Delivery parcel system where parcel delivery processing.3 types of users are insists here.Admin , users , and Rider.Users can book their parcel and also see their parcel status and also see their all parcel history.And also rider can see their all parcel and also see their all parcel history.And admin can see all users and riders and also see all parcel.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pick-on/image.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pick-on/images/image1.png?raw=true",
@@ -106,7 +106,7 @@
         "serverCode": "https://github.com/sajjadjim/server-side-code-Freelancer-",
         "liveLink": "https://freelance-task-marketpla-6d7e7.web.app/",
         "category": "Full Stack",
-        "duration": "1 month 27 days",
+        "duration": "13 Days",
         "description": "EasyBook is a full-stack web app to book appointments and manage reservations with secure login and real-time availability. It allows users to create accounts, book appointments, and manage their reservations. The app features a user-friendly interface with a calendar view, appointment details, and notifications. Admins can manage users and appointments through a secure dashboard.",
         "screenshots": [
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/homePage.png?raw=true",
@@ -564,6 +564,7 @@
         ]
     }
 ]
+
 
 
 
