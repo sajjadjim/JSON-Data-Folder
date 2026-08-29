@@ -87,6 +87,34 @@
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pick-on/images/image6.png?raw=true",
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pick-on/images/image7.png?raw=true"
         ]
+    },{
+        "name": "Loan Managements System",
+        "short_description": "It's Delivery parcel system where parcel delivery processing.3 types of users are insists here.Admin , users , and Rider.Users can book their parcel and also see their parcel status and also see their all parcel history.And also rider can see their all parcel and also see their all parcel history.And admin can see all users and riders and also see all parcel.",
+        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Loan%20Management%20system/image1.png?raw=true",
+        "technologies": [
+            "Next.js",
+            "SupaBase",
+            "Firebase",
+            "HTML",
+            "PostgreSQL",
+            "CSS",
+            "Google Drive",
+            "Firebase Auth"
+        ],
+        "clientCode": "https://github.com/sajjadjim/loan-management-system",
+        "liveLink": "",
+        "category": "Full Stack",
+        "duration": "8 days",
+        "description": "It's Loan Management system where users can loan and also see their loan history.And also admin can see all users and loan and also see their all loan history.",
+        "screenshots": [
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Loan%20Management%20system/image1.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Loan%20Management%20system/image2.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Loan%20Management%20system/image3.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Loan%20Management%20system/image4.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Loan%20Management%20system/image5.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Loan%20Management%20system/image6.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Loan%20Management%20system/image7.png?raw=true"
+        ]
     },
     {
         "name": "Freelancer Task",
