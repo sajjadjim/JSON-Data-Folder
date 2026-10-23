@@ -88,8 +88,33 @@
             "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/pick-on/images/image7.png?raw=true"
         ]
     },{
+        "name": "Bill Payment system offline",
+        "short_description": "An offline-first Super Shop Point of Sale (POS) and smart billing system featuring instant barcode scanning, multi-payment channels, and thermal receipt generation.",
+        "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Grocery%20Management%20system/image1.png?raw=true",
+        "technologies": [
+            "React.js",
+            "Vite",
+            "SupaBase",
+            "Tailwind CSS",
+            "PostgreSQL",
+            "HTML",
+            "CSS"
+        ],
+        "clientCode": "https://github.com/sajjadjim/Bill-Payment-system-offline",
+        "liveLink": "https://grocery-payment.netlify.app/",
+        "category": "Full Stack",
+        "duration": "4 days",
+        "description": "Grace Super Shop Smart POS & Billing System is an offline-first retail checkout and inventory management application designed for grocery stores and super shops. Built with React, Vite, and Supabase, it provides 0ms checkout latency with full hard-refresh cart persistence even when disconnected from the internet. Key features include hardware laser barcode scanner integration, manual loose-item billing, authentic 58mm/80mm thermal receipt printing (complete with VAT breakdown, discounts, and return barcodes), multi-channel payments (Cash with denomination change calculator, bKash, Nagad, Rocket, Visa/Mastercard), brand-based inventory filtering, bulk discount engines, and real-time cloud synchronization with Supabase.",
+        "screenshots": [
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Grocery%20Management%20system/image1.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Grocery%20Management%20system/image2.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Grocery%20Management%20system/image3.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Grocery%20Management%20system/image4.png?raw=true",
+            "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Grocery%20Management%20system/image5.png?raw=true"
+        ]
+    },{
         "name": "Loan Managements System",
-        "short_description": "It's Delivery parcel system where parcel delivery processing.3 types of users are insists here.Admin , users , and Rider.Users can book their parcel and also see their parcel status and also see their all parcel history.And also rider can see their all parcel and also see their all parcel history.And admin can see all users and riders and also see all parcel.",
+        "short_description": "It's Loan Management system for my area small scale loans. Users can loan and also see their loan history.And also admin can see all users and loan and also see their all loan history.",
         "image": "https://github.com/sajjadjim/sajjadjim/blob/main/Project%20Data/Loan%20Management%20system/image1.png?raw=true",
         "technologies": [
             "Next.js",
